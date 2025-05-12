@@ -15,6 +15,14 @@ Dark Mode:
 
 ![UI Screenshot (Dark)](docs/assets/map_dashboard_UI_dark-mode.png)
 
+Sensor Card (Light):
+
+![Sensor Card (Light)](docs/assets/sensor_card.png)
+
+Sensor Card (Dark):
+
+![Sensor Card (Dark)](docs/assets/sensor_card_dark-mode.png)
+
 ## 🔍 Features
 
 * **Real‑Time MQTT Subscriber**
